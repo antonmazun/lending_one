@@ -1,0 +1,24 @@
+.hor_list li{
+    display: inline;
+    list-style: none;
+    padding-left: 10px;
+    color:darkgrey;
+}
+.line{
+     border-left: 2px solid #ccc; /* Параметры линии */ 
+
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+}
+
+.contain{
+    margin-top:5%;
+}
+
+.block_content{
+    margin-right:-3%;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
